@@ -5,3 +5,5 @@
 # Appolo client is used to make queries along with GraphQL.
 
 # react-markdown is being in use to format RTF texts.
+
+# use << npm start >> to run the FE (client).
